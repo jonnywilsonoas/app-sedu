@@ -7,4 +7,3 @@ Criar um arquivo secrets.xml dentro da pasta /res/values e adicionar a chave de 
     <string name="SDK_KEY"> **adicionar chave** </string>
 </resources>
 ```
-# O patrocínio é feito através de contrato com a DATAMI (www.datami.com).
